@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yFakeYou
-- 👀 I’m interested in  ajuda discord.py
+- 👀 I’m interested in  help discord.py
 - 🌱 I’m currently learning  python
 - 📫 How to reach me  discord = Fakezin#1967
 
